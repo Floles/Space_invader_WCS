@@ -1,0 +1,8 @@
+body {
+   margin-left: 10px;
+}
+
+[class*="col-"] {
+   background-color: lawngreen;
+   height: 50px;
+}
