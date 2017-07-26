@@ -1,2 +1,2 @@
 # Space_invader_WCS
-Space invader
+Quête Space invader pour la Wild Code School
